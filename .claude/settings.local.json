@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\user\\\\OneDrive - 光速火箭股份有限公司\\\\Workspace\\\\D365 BC\")"
+    ]
+  }
+}

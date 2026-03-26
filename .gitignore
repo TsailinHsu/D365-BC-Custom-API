@@ -1,0 +1,16 @@
+# AL / Business Central
+.alpackages/
+.snapshots/
+*.app
+rad.json
+
+# VS Code
+.vscode/launch.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
